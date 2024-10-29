@@ -1,6 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import { Dash } from './DASH'
+import { Dash } from './Dash'
 import { Home } from './Home'
 import {BrowserRouter, Route, Routes} from 'react-router-dom'
 
